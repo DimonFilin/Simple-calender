@@ -1,4 +1,8 @@
 {
-  "appBarTitle": "Eng Appbar",
-  "MainTitle": "Main fjdfkjdkf"
+  "appBarTitle": "Calender",
+  "MainTitle": "Main fjdfkjdkf",
+  "NewEvent": "Add new event",
+  "Submit": "Sumbit"
+
+
 }

@@ -50,10 +50,10 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `Eng Appbar`
+  /// `Calender`
   String get appBarTitle {
     return Intl.message(
-      'Eng Appbar',
+      'Calender',
       name: 'appBarTitle',
       desc: '',
       args: [],
@@ -65,6 +65,26 @@ class S {
     return Intl.message(
       'Main fjdfkjdkf',
       name: 'MainTitle',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Add new event`
+  String get NewEvent {
+    return Intl.message(
+      'Add new event',
+      name: 'NewEvent',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sumbit`
+  String get Submit {
+    return Intl.message(
+      'Sumbit',
+      name: 'Submit',
       desc: '',
       args: [],
     );
